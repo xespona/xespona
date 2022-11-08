@@ -4,7 +4,7 @@
 - 🌱 I’m always learning
 - 😄 Pronouns: he/him
 
-
+For some reason the stats below don't want to count contributiosn to private repositories 🤷
 
 ![Xavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xespona&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title=stats)
 
